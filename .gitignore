@@ -1,0 +1,4 @@
+*.csv
+*.zip
+*.txt
+!urls_all.txt
